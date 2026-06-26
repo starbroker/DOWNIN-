@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "High-speed video and audio downloader with format selection and batch processing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
